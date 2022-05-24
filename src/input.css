@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    /* gradient */
+    --grad-start: hsl(6, 100%, 80%);
+    --grad-end : hsl(335, 100%, 65%);
+    /* color */
+    --pale-blue: hsl(243, 100%, 93%);
+    --grayish-blue: hsl(229, 7%, 55%);
+    --dark-blue: hsl(228, 56%, 26%);
+    --very-dark-blue: hsl(229, 57%, 11%);
+}
+
+.triangle {
+    display: block;
+    width: 0;
+    height: 0;
+    border-right: 10px solid white;
+    border-top: 10px solid white;
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+}
