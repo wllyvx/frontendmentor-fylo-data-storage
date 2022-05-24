@@ -790,6 +790,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     background-image: url('/images/bg-desktop.png');
   }
 
+  .md\:bg-\[url\(\'\.\/images\/bg-desktop\.png\'\)\] {
+    background-image: url('./images/bg-desktop.png');
+  }
+
   .md\:bg-contain {
     background-size: contain;
   }
