@@ -46,7 +46,7 @@ Mobile preview:
 
 ### What I learned
 
-I learnded to make a static progress bar
+I learned to make a static progress bar
 
 ```html
 <div id="progress-bar" class="w-full bg-very-dark-blue rounded-xl p-[.1rem]">
