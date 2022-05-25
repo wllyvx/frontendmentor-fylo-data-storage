@@ -24,8 +24,11 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+Desktop preview:
+![](./screenshots/desktop.png)
 
-![](./screenshot.jpg)
+Mobile preview:
+![](./screenshots/mobile.png)
 
 ### Links
 
